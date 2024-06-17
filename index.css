@@ -1,0 +1,41 @@
+#section{
+    max-width: 500px;
+    margin: 100px auto;
+    text-align: center;
+
+}
+#heading {
+    color:blue;
+    text-align: center
+    margin: 20px;
+}
+.number{
+    color: lightblue;
+    font-size: 1.5rem;
+    text-align: center;
+}
+#input{
+   padding: 5px;
+   border-radius: 10px;
+   width: 200px;
+   text-align: center;
+   margin: 20px auto;
+}
+
+#result{
+    margin-top: 50px;
+}
+
+main{
+    display: flex;
+}
+
+#answer{
+    background-color: black;
+    color: blue;
+    opacity: 0.5;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    align-self: center;
+}
